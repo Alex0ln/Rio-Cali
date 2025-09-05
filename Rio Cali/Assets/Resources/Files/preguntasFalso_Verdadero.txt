@@ -1,0 +1,15 @@
+El vidrio puede reciclarse infinitas veces sin perder calidad.-true-Reciclaje-facil
+Las botellas de plástico deben aplastarse antes de reciclarse.-true-Reciclaje-facil
+El papel higiénico usado se puede reciclar.-false-Reciclaje-facil
+Las pilas y baterías se deben tirar al contenedor normal.-false-Reciclaje-facil
+El símbolo de las tres flechas formando un triángulo representa el reciclaje.-true-Reciclaje-facil
+El cartón mojado es ideal para reciclar.-false-Reciclaje-facil
+Separar la basura en casa ayuda al proceso de reciclaje.-true-Reciclaje-facil
+El plástico tarda pocos meses en degradarse.-false-Reciclaje-facil
+Las latas de aluminio se pueden reciclar.-true-Reciclaje-facil
+Reciclar ayuda a reducir la contaminación ambiental.-true-Reciclaje-facil
+El aceite de cocina usado debe tirarse al desagüe.-false-Reciclaje-facil
+Los residuos orgánicos sirven para hacer compost.-true-Reciclaje-facil
+El vidrio debe tirarse con tapones y tapas puestas.-false-Reciclaje-facil
+Reciclar una tonelada de papel ahorra muchos árboles.-true-Reciclaje-facil
+Las bolsas plásticas biodegradables desaparecen de inmediato al tirarlas.-false-Reciclaje-facil
