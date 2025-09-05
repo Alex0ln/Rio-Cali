@@ -55,7 +55,7 @@ public class Score : MonoBehaviour
 
     private void VerificarCondiciones()
     {
-        if (!elementosMostrados && puntosBasura >= 120 && puntosPlastico >= 80)
+        if (!elementosMostrados && puntosBasura >= 100 && puntosPlastico >= 80)
         {
             elementosMostrados = true;
 
